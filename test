@@ -3,5 +3,8 @@ int main() {
         if(flag) {
             a+b
         }
+        if(i==0){
+            flag2=true;
+        }
     }
 }
